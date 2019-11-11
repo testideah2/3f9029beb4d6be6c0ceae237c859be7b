@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.shashkers.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. shashkers.ru</name>
+    <name>shashkers.ru</name>
 
     <description>
         Шашкерсы это не обычные шашки, это шашки прыгунки, повышая сложность и интерес к игре шашки, в игре вы можете создавать интересные и хитрые комбинации, благодаря тому что ваша шашка может перепрыгивать через союзную шашку.
